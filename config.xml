@@ -2,11 +2,11 @@
 <widget
   xmlns       = "http://www.w3.org/ns/widgets"
   xmlns:gap   = "http://phonegap.com/ns/1.0"
-  id          = "com.storemobilizer.esgreen"
+  id          = "com.storemobilizer.esgreen.com"
   version     = "15.05.20"
   versionCode = "150520"
 >
-  <name>Enjoy / Slow / Green</name>
+  <name>ESGREEN - Enjoy / Slow / Green</name>
   <author
     href="http://storemobilizer.com"
     email="info@storemobilizer.com">StoreMobilizer
