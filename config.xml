@@ -72,6 +72,7 @@
     <splash src="logo768x1024.jpg"/>
   </platform>
   <preference name="windows-appx-target" value="8.1-phone"/>
+  <preference name="windows-arch" value="arm"/>
 
   <!--plugin name="cordova-plugin-file" spec="4.3.0"/-->
   <!--plugin name="cordova-plugin-x-socialsharing" spec="5.1.3"/-->
