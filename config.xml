@@ -9,7 +9,7 @@
   <name>ESGREEN - Enjoy / Slow / Green</name>
   <author
     href="http://storemobilizer.com"
-    email="info@storemobilizer.com">StoreMobilizer.com
+    email="info@storemobilizer.com">StoreMobilizer
   </author>
   <description>esgreen.com</description>
   <preference name="phonegap-version" value="cli-6.5.0"/>
@@ -73,6 +73,7 @@
   </platform>
   <preference name="windows-appx-target" value="8.1-phone"/>
   <preference name="windows-arch" value="arm"/>
+  <preference name="windows-identity-name" value="12384StoreMobilizer.ESGREEN-EnjoySlowGreen"/>
 
   <!--plugin name="cordova-plugin-file" spec="4.3.0"/-->
   <!--plugin name="cordova-plugin-x-socialsharing" spec="5.1.3"/-->
